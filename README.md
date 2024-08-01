@@ -16,6 +16,10 @@ Once you've got python installed open up 'install.bat' and wait for it to finish
 
 To run the program click into the folder path, type 'cmd' and then 'python app.py'
 
+You will need an account on psxhax.com and the 'Mmember', 'Verified' and 'Contributor' badges like this:
+https://prnt.sc/hUWe60u8q54d
+there is a guide on how to get them on-site
+
 
 You will be prompted to enter your psxhax cookie values.
 
