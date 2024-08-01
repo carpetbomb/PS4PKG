@@ -22,7 +22,15 @@ Below are the different features I have added.
 
 ![ezgif-6-b27f861335](https://github.com/user-attachments/assets/a3dc1061-1c88-476c-ae51-4b44ddc47f50)
 
+[API]
 
+![Screenshot_3](https://github.com/user-attachments/assets/0c12c2e0-be48-4e44-ad76-df24c7eb5081)
+
+You have two options of www.alldebrid.com and www.real-debrid.com to download via direct links (1fichier, mega, mediafire)
+
+The API Key is stored in plaintext in the /bin folder
+
+In the future it will be stored encrypted but this is low priority at the moment.
 
 [Backup + Recover]
 
@@ -31,6 +39,10 @@ Backup and recover will make a backup prefixed with todays date to make it easie
 Recover then lets you select one of these backups and revert the games list back to how it was when the backup was taken.
 
 The backups are stored in the programs /bin/cache folder.
+
+
+
+
 # Installation
 First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
 
