@@ -7,7 +7,7 @@ A PS4 fPKG Game list using the psxhax site
 
 All links included are from www.psxhax.com and I claim no ownership over any of their contents.
 
-Some background:
+**Some background:** \n
 I initially started work on this version on the 15th July and have slowly worked on it and added more features.
 The first version using psxhax was made on the 14th May and worked very differently and was way more complicated and time consuming to use
 
