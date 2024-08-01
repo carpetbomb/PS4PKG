@@ -65,7 +65,7 @@ https://www.psxhax.com/threads/psxhax-member-verification-thread-for-receiving-b
 
 
 
-You will need to enter your psxhax cookie values. These can be found using [EditThisCookie]([url](https://www.editthiscookie.com/)). The input screen can then be found by going to Settings -> PSXHAX Credentials
+You will need to enter your psxhax cookie values. These can be found using [EditThisCookie](https://www.editthiscookie.com/). The input screen can then be found by going to Settings -> PSXHAX Credentials
 
 (These are only needed if you are going to use the download button, which scrapes the links from the page. Using Open Page is not affected by them)
 
