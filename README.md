@@ -51,9 +51,9 @@ The backups are stored in the programs /bin/cache folder.
 # Installation
 First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
 
-Once you've got python installed open up 'install.bat' and wait for it to finish installing / updating each component.
+Once you've got python installed open up `install.bat` and wait for it to finish installing / updating each component.
 
-To run the program click into the folder path, type 'cmd' and then 'python app.py'
+To run the program click into the folder path, type `cmd` and then `python app.py`
 
 You will need an account on www.psxhax.com and the 'Member', 'Verified' and 'Contributor' badges like this:
 
