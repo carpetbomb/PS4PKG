@@ -1,5 +1,7 @@
 # PS4PKG
-**[!NOT CURRENTLY RELEASED!]**
+
+> [!NOTE]
+> !NOT CURRENTLY RELEASED!
 
 A PS4 fPKG Game list using the psxhax site
 
@@ -61,7 +63,7 @@ Below are the different features I have added.
 
 - there is a guide on how to get them on-site which can be found here:
 
-https://www.psxhax.com/threads/psxhax-member-verification-thread-for-receiving-blue-verified-badge.5824/#post-117077
+- https://www.psxhax.com/threads/psxhax-member-verification-thread-for-receiving-blue-verified-badge.5824/#post-117077
 
 
 
@@ -79,5 +81,5 @@ Please make me aware of any bugs you come across!
 
 Known Bugs:
 - The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
-
+- [x] In 'View new games' Scrolling forward to December skips to January
 # Changelog
