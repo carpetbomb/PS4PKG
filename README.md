@@ -14,19 +14,19 @@ The very first fPKG viewer I made uses dlps and was made when I was a lot less u
 # Features
 Below are the different features I have added.
 
-[Searching and Genre Selection]
+### [Searching and Genre Selection]
 
 ![searchandgenre](https://github.com/user-attachments/assets/b283d22b-9d70-4a13-9682-3729d0a87c0a)
 
 
 
-[Viewing Dumped Games and their Dump Dates]
+### [Viewing Dumped Games and their Dump Dates]
 
 ![ezgif-6-b27f861335](https://github.com/user-attachments/assets/a3dc1061-1c88-476c-ae51-4b44ddc47f50)
 
 The date format here is in MM-DD-YY as that is how it's recorded on psxhax's list.
 
-[API]
+### [API]
 
 ![Screenshot_4](https://github.com/user-attachments/assets/a6b641a3-96fc-4ec0-bd25-c6d71946f9d9)
 
@@ -37,7 +37,7 @@ The API Key is stored in plaintext in the /bin folder
 In the future it will be stored encrypted but this is low priority at the moment.
 
 
-[Backup + Recover]
+### [Backup + Recover]
 
 Backup and recover will make a backup prefixed with todays date to make it easier to know which backup is which.
 
@@ -65,7 +65,8 @@ https://www.psxhax.com/threads/psxhax-member-verification-thread-for-receiving-b
 
 
 
-You will need to enter your psxhax cookie values. These can be found using EditThisCookie. The input screen can then be found by going to Settings -> PSXHAX Credentials
+You will need to enter your psxhax cookie values. These can be found using [EditThisCookie]([url](https://www.editthiscookie.com/)). The input screen can then be found by going to Settings -> PSXHAX Credentials
+
 (These are only needed if you are going to use the download button, which scrapes the links from the page. Using Open Page is not affected by them)
 
 ![Screenshot_1](https://github.com/user-attachments/assets/a04c2b9e-dbc8-4387-b18c-5c1b7bd0f5ca)
