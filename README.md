@@ -38,7 +38,7 @@ Once you've got python installed open up 'install.bat' and wait for it to finish
 
 To run the program click into the folder path, type 'cmd' and then 'python app.py'
 
-You will need an account on www.psxhax.com and the 'Mmember', 'Verified' and 'Contributor' badges like this:
+You will need an account on www.psxhax.com and the 'Member', 'Verified' and 'Contributor' badges like this:
 
 ![Screenshot_2](https://github.com/user-attachments/assets/2454e58d-1573-47b4-baa9-692f6cd6740d)
 
