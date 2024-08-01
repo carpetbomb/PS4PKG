@@ -11,8 +11,10 @@ The very first fPKG viewer I made uses dlps and was made when I was a lot less u
 
 # Features
 Below are the different features I have added.
+
 ![searchandgenre](https://github.com/user-attachments/assets/b283d22b-9d70-4a13-9682-3729d0a87c0a)
-  [Searching and Genre Selection]
+
+[Searching and Genre Selection]
 # Installation
 First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
 
