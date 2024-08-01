@@ -16,6 +16,7 @@ Once you've got python installed open up 'install.bat' and wait for it to finish
 
 To run the program click into the folder path, type 'cmd' and then 'python app.py'
 
+
 You will be prompted to enter your psxhax cookie values.
 
 These are stored locally in the cache folder in plaintext and are only passed to psxhax and nowhere else. (you can confirm this by reading through the code)
