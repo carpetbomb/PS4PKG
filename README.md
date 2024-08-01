@@ -80,6 +80,6 @@ while I plan to add some encryption on these cookies it is not a priority at the
 Please make me aware of any bugs you come across!
 
 Known Bugs:
-- [ ] The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
-- [ ] On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
+- [ ] - The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
+- [ ] - On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
 # Changelog
