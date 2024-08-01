@@ -24,7 +24,7 @@ Below are the different features I have added.
 
 ![ezgif-6-b27f861335](https://github.com/user-attachments/assets/a3dc1061-1c88-476c-ae51-4b44ddc47f50)
 
-**The date format here is in `MM-DD-YY` as that is how it's recorded on psxhax's list.**
+- **The date format here is in `MM-DD-YY` as that is how it's recorded on psxhax's list.**
 
 ### [API]
 
