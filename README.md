@@ -24,7 +24,7 @@ Below are the different features I have added.
 
 ![ezgif-6-b27f861335](https://github.com/user-attachments/assets/a3dc1061-1c88-476c-ae51-4b44ddc47f50)
 
-The date format here is in MM-DD-YY as that is how it's recorded on psxhax's list.
+**The date format here is in `MM-DD-YY` as that is how it's recorded on psxhax's list.**
 
 ### [API]
 
@@ -65,19 +65,19 @@ https://www.psxhax.com/threads/psxhax-member-verification-thread-for-receiving-b
 
 
 
-You will need to enter your psxhax cookie values. These can be found using [EditThisCookie](https://www.editthiscookie.com/). The input screen can then be found by going to Settings -> PSXHAX Credentials
+You will need to enter your psxhax cookie values. These can be found using [EditThisCookie](https://www.editthiscookie.com/). The input screen can then be found by going to `Settings -> PSXHAX Credentials`
 
 (These are only needed if you are going to use the download button, which scrapes the links from the page. Using Open Page is not affected by them)
 
 ![Screenshot_1](https://github.com/user-attachments/assets/a04c2b9e-dbc8-4387-b18c-5c1b7bd0f5ca)
 
-These are stored locally in the cache folder in plaintext and are only passed to psxhax and nowhere else. (you can confirm this by reading through the code)
+These are stored locally in the cache folder in plaintext and are only passed to psxhax and nowhere else. `(you can confirm this by reading through the code)`
 
 while I plan to add some encryption on these cookies it is not a priority at the moment as nothing in the file indicates what site they are for
 # Bugs
 Please make me aware of any bugs you come across!
 
 Known Bugs:
-- The 'X' Close buttons do not work [this is a problem with the gui so I cannot fix]
+- The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
 
 # Changelog
