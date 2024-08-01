@@ -1,5 +1,5 @@
 # PS4PKG
-[!NOT CURRENTLY RELEASED!]
+**[!NOT CURRENTLY RELEASED!]**
 
 A PS4 fPKG Game list using the psxhax site
 
