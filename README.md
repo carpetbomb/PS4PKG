@@ -1,4 +1,6 @@
 # PS4PKG
+[!NOT CURRENTLY RELEASED!]
+
 A PS4 fPKG Game list using the psxhax site
 
 All links included are from www.psxhax.com and I claim no ownership over any of their contents.
@@ -64,6 +66,7 @@ https://www.psxhax.com/threads/psxhax-member-verification-thread-for-receiving-b
 
 
 You will need to enter your psxhax cookie values. The screen can be found by going to Settings -> PSXHAX Credentials
+
 ![Screenshot_1](https://github.com/user-attachments/assets/a04c2b9e-dbc8-4387-b18c-5c1b7bd0f5ca)
 
 These are stored locally in the cache folder in plaintext and are only passed to psxhax and nowhere else. (you can confirm this by reading through the code)
