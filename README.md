@@ -1,5 +1,6 @@
 # PS4PKG
 A PS4 fPKG Game list using the psxhax site
+
 All links included are from psxhax.com and I claim no ownership over any of their contents.
 
 Some background:
@@ -23,7 +24,8 @@ You will need an account on psxhax.com and the 'Mmember', 'Verified' and 'Contri
 there is a guide on how to get them on-site
 
 
-You will be prompted to enter your psxhax cookie values.
+You will need to enter your psxhax cookie values. The screen can be found by going to Settings -> PSXHAX Credentials
+![Screenshot_1](https://github.com/user-attachments/assets/a04c2b9e-dbc8-4387-b18c-5c1b7bd0f5ca)
 
 These are stored locally in the cache folder in plaintext and are only passed to psxhax and nowhere else. (you can confirm this by reading through the code)
 
