@@ -55,7 +55,10 @@ You will need an account on www.psxhax.com and the 'Member', 'Verified' and 'Con
 
 ![Screenshot_2](https://github.com/user-attachments/assets/2454e58d-1573-47b4-baa9-692f6cd6740d)
 
-there is a guide on how to get them on-site
+there is a guide on how to get them on-site which can be found here:
+
+https://www.psxhax.com/threads/psxhax-member-verification-thread-for-receiving-blue-verified-badge.5824/#post-117077
+
 
 
 You will need to enter your psxhax cookie values. The screen can be found by going to Settings -> PSXHAX Credentials
