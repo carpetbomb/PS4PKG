@@ -1,7 +1,7 @@
 # PS4PKG
 A PS4 fPKG Game list using the psxhax site
 
-All links included are from psxhax.com and I claim no ownership over any of their contents.
+All links included are from www.psxhax.com and I claim no ownership over any of their contents.
 
 Some background:
 I initially started work on this version on the 15th July and have slowly worked on it and added more features.
@@ -38,7 +38,7 @@ Once you've got python installed open up 'install.bat' and wait for it to finish
 
 To run the program click into the folder path, type 'cmd' and then 'python app.py'
 
-You will need an account on psxhax.com and the 'Mmember', 'Verified' and 'Contributor' badges like this:
+You will need an account on www.psxhax.com and the 'Mmember', 'Verified' and 'Contributor' badges like this:
 
 ![Screenshot_2](https://github.com/user-attachments/assets/2454e58d-1573-47b4-baa9-692f6cd6740d)
 
