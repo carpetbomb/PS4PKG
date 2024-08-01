@@ -24,13 +24,14 @@ Below are the different features I have added.
 
 [API]
 
-![Screenshot_3](https://github.com/user-attachments/assets/0c12c2e0-be48-4e44-ad76-df24c7eb5081)
+![Screenshot_4](https://github.com/user-attachments/assets/a6b641a3-96fc-4ec0-bd25-c6d71946f9d9)
 
 You have two options of www.alldebrid.com and www.real-debrid.com to download via direct links (1fichier, mega, mediafire)
 
 The API Key is stored in plaintext in the /bin folder
 
 In the future it will be stored encrypted but this is low priority at the moment.
+
 
 [Backup + Recover]
 
@@ -40,7 +41,7 @@ Recover then lets you select one of these backups and revert the games list back
 
 The backups are stored in the programs /bin/cache folder.
 
-
+![Screenshot_3](https://github.com/user-attachments/assets/0c12c2e0-be48-4e44-ad76-df24c7eb5081)
 
 
 # Installation
