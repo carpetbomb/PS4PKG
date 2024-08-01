@@ -30,36 +30,36 @@ Below are the different features I have added.
 
 ![Screenshot_4](https://github.com/user-attachments/assets/a6b641a3-96fc-4ec0-bd25-c6d71946f9d9)
 
-You have two options of www.alldebrid.com and www.real-debrid.com to download via direct links (1fichier, mega, mediafire)
+- You have two options of www.alldebrid.com and www.real-debrid.com to download via direct links (1fichier, mega, mediafire)
 
-The API Key is stored in plaintext in the /bin folder
+- The API Key is stored in plaintext in the /bin folder
 
-In the future it will be stored encrypted but this is low priority at the moment.
+- In the future it will be stored encrypted but this is low priority at the moment.
 
 
 ### [Backup + Recover]
 
-Backup and recover will make a backup prefixed with todays date to make it easier to know which backup is which.
+- Backup and recover will make a backup prefixed with todays date to make it easier to know which backup is which.
 
-Recover then lets you select one of these backups and revert the games list back to how it was when the backup was taken.
+- Recover then lets you select one of these backups and revert the games list back to how it was when the backup was taken.
 
-The backups are stored in the programs /bin/cache folder.
+- The backups are stored in the programs /bin/cache folder.
 
 ![Screenshot_3](https://github.com/user-attachments/assets/0c12c2e0-be48-4e44-ad76-df24c7eb5081)
 
 
 # Installation
-First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
+- First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
 
-Once you've got python installed open up `install.bat` and wait for it to finish installing / updating each component.
+- Once you've got python installed open up `install.bat` and wait for it to finish installing / updating each component.
 
-To run the program click into the folder path, type `cmd` and then `python app.py`
+- To run the program click into the folder path, type `cmd` and then `python app.py`
 
-You will need an account on www.psxhax.com and the 'Member', 'Verified' and 'Contributor' badges like this:
+- You will need an account on www.psxhax.com and the 'Member', 'Verified' and 'Contributor' badges like this:
 
 ![Screenshot_2](https://github.com/user-attachments/assets/2454e58d-1573-47b4-baa9-692f6cd6740d)
 
-there is a guide on how to get them on-site which can be found here:
+- there is a guide on how to get them on-site which can be found here:
 
 https://www.psxhax.com/threads/psxhax-member-verification-thread-for-receiving-blue-verified-badge.5824/#post-117077
 
