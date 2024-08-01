@@ -80,6 +80,6 @@ while I plan to add some encryption on these cookies it is not a priority at the
 Please make me aware of any bugs you come across!
 
 Known Bugs:
-- The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
-- [x] In 'View new games' Scrolling forward to December skips to January
+- [ ] The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
+
 # Changelog
