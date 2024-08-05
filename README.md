@@ -82,9 +82,10 @@ while I plan to add some encryption on these cookies it is not a priority at the
 Please make me aware of any bugs you come across!
 
 Known Bugs:
-- [ ] - xf_usr does not display properly in the credentials screen, this however, does not impact anything else.
+- [x] - xf_user does not display properly in the credentials screen, this however, does not impact anything else.
 - [ ] - The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
 - [x] - On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
 # Changelog
+[05/08/24] - xf_user now displays properly
 
 [05/08/24] - On the main page it says 'Download' instead of 'Get Content' Now been swapped
