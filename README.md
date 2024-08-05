@@ -83,5 +83,7 @@ Please make me aware of any bugs you come across!
 
 Known Bugs:
 - [ ] - The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
-- [ ] - On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
+- [x] - On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
 # Changelog
+
+[05/08/24] - On the main page it says 'Download' instead of 'Get Content' Now been swapped
