@@ -51,6 +51,12 @@ Below are the different features I have added.
 
 ![Screenshot_3](https://github.com/user-attachments/assets/0c12c2e0-be48-4e44-ad76-df24c7eb5081)
 
+### [Viewing Game]
+
+![Screenshot_5](https://github.com/user-attachments/assets/728e694a-539f-4913-91c4-ecd197cc27f9)
+
+> [!NOTE]
+> This layout is likely not final.
 
 # Installation
 - First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
