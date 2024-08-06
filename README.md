@@ -92,8 +92,10 @@ Known Bugs:
 - [x] - xf_user does not display properly in the credentials screen, this however, does not impact anything else.
 - [x] - On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
 # Changelog
-[06/08/24] - Added whether or not game was tested in the link view window
+[**06/08/24**] - Added whether or not game was tested in the link view window
 
-[05/08/24] - xf_user now displays properly
+Added Base64 Decoder
+
+[**05/08/24**] - xf_user now displays properly
 
 Main page now says 'Get Content' instead of 'Download'
