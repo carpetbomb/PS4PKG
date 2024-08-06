@@ -88,6 +88,7 @@ Please make me aware of any bugs you come across!
 
 Known Bugs:
 
+- [ ] - Not entirely a bug but it is unable to scrape any base64 links from pages
 - [ ] - The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
 - [x] - xf_user does not display properly in the credentials screen, this however, does not impact anything else.
 - [x] - On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
