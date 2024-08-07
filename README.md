@@ -40,10 +40,6 @@ Below are the different features I have added.
 
 - You can find your real-debrid API key here: https://real-debrid.com/apitoken
 
-- The API Key is stored in plaintext in the /bin folder
-
-- In the future it will be stored encrypted but this is low priority at the moment.
-
 
 ### [Backup + Recover]
 
@@ -84,7 +80,7 @@ You will need to enter your psxhax cookie values. These can be found using [Edit
 
 ![Screenshot_1](https://github.com/user-attachments/assets/a04c2b9e-dbc8-4387-b18c-5c1b7bd0f5ca)
 
-These are stored locally in the cache folder in plaintext and are only passed to psxhax and nowhere else. `(you can confirm this by reading through the code)`
+These are stored locally in the cache folder and are only passed to psxhax and nowhere else. `(you can confirm this by reading through the code)`
 
 while I plan to add some encryption on these cookies it is not a priority at the moment as nothing in the file indicates what site they are for
 # Bugs
