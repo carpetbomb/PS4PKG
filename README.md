@@ -53,7 +53,7 @@ Below are the different features I have added.
 
 ### [Viewing Game]
 
-![Screenshot_5](https://github.com/user-attachments/assets/728e694a-539f-4913-91c4-ecd197cc27f9)
+![Screenshot_6](https://github.com/user-attachments/assets/3565677f-a7ea-4f14-bfbc-945180a117fe)
 
 > [!NOTE]
 > This layout is likely not final.
