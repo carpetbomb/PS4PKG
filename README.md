@@ -93,7 +93,7 @@ Known Bugs:
 - [x] - xf_user does not display properly in the credentials screen, this however, does not impact anything else.
 - [x] - On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
 # Changelog
-[**07/08/24**] - Added game image and description
+[**07/08/24**] - Added game image and description + Fixed game images, descriptions not found crashing program 
 
 
 [**06/08/24**] - Added whether or not game was tested in the link view window
