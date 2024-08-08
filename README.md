@@ -60,6 +60,11 @@ Below are the different features I have added.
 > This layout is likely not final.
 
 # Installation
+>INFO
+>YOU **MUST** HAVE AN ACCOUNT ON PSXHAX TO USE THIS PROGRAM
+
+- You'll need to download `app.py` then the `bin` folder. Also `install.bat` and `requirements.txt`
+
 - First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
 
 - Once you've got python installed open up `install.bat` and wait for it to finish installing / updating each component.
@@ -76,7 +81,7 @@ Below are the different features I have added.
 
 
 
-You will need to enter your psxhax cookie values. These can be found using [EditThisCookie](https://www.editthiscookie.com/). The input screen can then be found by going to `Settings -> PSXHAX Credentials`
+After you're verified you will need to enter your psxhax cookie values. These can be found using [EditThisCookie](https://www.editthiscookie.com/). The input screen can then be found by going to `Settings -> PSXHAX Credentials`
 
 
 ![Screenshot_1](https://github.com/user-attachments/assets/a04c2b9e-dbc8-4387-b18c-5c1b7bd0f5ca)
