@@ -36,6 +36,8 @@ Below are the different features I have added.
 
 - You have two options of www.alldebrid.com and www.real-debrid.com to download via direct links (1fichier, mega, mediafire)
 
+- The third option is `none` which will open a webpage of the download link.
+
 - You can find your alldebrid API key here: https://alldebrid.com/account/
 
 - You can find your real-debrid API key here: https://real-debrid.com/apitoken
