@@ -56,7 +56,7 @@ Below are the different features I have added.
 ![Screenshot_7](https://github.com/user-attachments/assets/e5501515-da1b-47c9-8159-df063d29f299)
 
 
-> [!NOTE]
+> [!WARNING]
 > This layout is likely not final.
 
 # Installation
