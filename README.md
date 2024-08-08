@@ -56,11 +56,11 @@ Below are the different features I have added.
 ![Screenshot_7](https://github.com/user-attachments/assets/e5501515-da1b-47c9-8159-df063d29f299)
 
 
-> [!WARNING]
+> [!NOTE]
 > This layout is likely not final.
 
 # Installation
->INFO
+>[!WARNING]
 >YOU **MUST** HAVE AN ACCOUNT ON PSXHAX TO USE THIS PROGRAM
 
 - You'll need to download `app.py` then the `bin` folder. Also `install.bat` and `requirements.txt`
