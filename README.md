@@ -53,7 +53,8 @@ Below are the different features I have added.
 
 ### [Viewing Game]
 
-![Screenshot_6](https://github.com/user-attachments/assets/3565677f-a7ea-4f14-bfbc-945180a117fe)
+![Screenshot_7](https://github.com/user-attachments/assets/e5501515-da1b-47c9-8159-df063d29f299)
+
 
 > [!NOTE]
 > This layout is likely not final.
@@ -93,6 +94,8 @@ Known Bugs:
 - [x] - xf_user does not display properly in the credentials screen, this however, does not impact anything else.
 - [x] - On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.
 # Changelog
+[**08/08/24**] - Added Game Info (player count, rating, release date)
+
 [**07/08/24**] - Added game image and description + Fixed game images, descriptions not found crashing program 
 
 
