@@ -95,6 +95,7 @@ Known Bugs:
 - [x] - ~~On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.~~
 # Changelog
 [**08/08/24**] - Added Game Info (player count, rating, release date)
+
 Added base64 link support
 
 [**07/08/24**] - Added game image and description + Fixed game images, descriptions not found crashing program 
