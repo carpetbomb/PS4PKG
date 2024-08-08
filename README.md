@@ -61,7 +61,7 @@ Below are the different features I have added.
 
 # Installation
 >[!WARNING]
->YOU **MUST** HAVE AN ACCOUNT ON PSXHAX TO USE THIS PROGRAM
+>YOU **MUST** HAVE A **VERIFIED** ACCOUNT ON PSXHAX TO USE THIS PROGRAM
 
 - You'll need to download `app.py` then the `bin` folder. Also `install.bat` and `requirements.txt`
 
