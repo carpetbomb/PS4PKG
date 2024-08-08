@@ -2,3 +2,5 @@ pip
 FreeSimpleGUI
 pyperclip
 bs4
+pillow
+cloudscraper
