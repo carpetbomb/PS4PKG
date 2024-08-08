@@ -32,7 +32,7 @@ Below are the different features I have added.
 
 ### [API]
 
-![Screenshot_4](https://github.com/user-attachments/assets/a6b641a3-96fc-4ec0-bd25-c6d71946f9d9)
+![api](https://github.com/user-attachments/assets/2a3499b7-9ed8-48f6-b80e-4df52bccaf95)
 
 - You have two options of www.alldebrid.com and www.real-debrid.com to download via direct links (1fichier, mega, mediafire)
 
@@ -102,6 +102,8 @@ Known Bugs:
 [**08/08/24**] - Added Game Info (player count, rating, release date)
 
 Added base64 link support
+
+Added API option `none` to just open the download page
 
 [**07/08/24**] - Added game image and description + Fixed game images, descriptions not found crashing program 
 
