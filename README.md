@@ -1,7 +1,9 @@
 # PS4PKG
 
 > [!NOTE]
-> !NOT CURRENTLY RELEASED!
+> PLEASE READ THE INSTALL SECTION!
+
+https://github.com/carpetbomb/PS4PKG?tab=readme-ov-file#installation
 
 A PS4 fPKG Game list using the psxhax site
 
