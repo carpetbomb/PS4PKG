@@ -20,6 +20,9 @@ All links included are from www.psxhax.com and I claim no ownership over any of 
 # Features
 Below are the different features I have added.
 
+### [Fastmode(ish)]
+This makes the search a bit faster by just showing links with no game icon or description
+
 ### [Searching and Genre Selection]
 
 ![searchandgenre](https://github.com/user-attachments/assets/b283d22b-9d70-4a13-9682-3729d0a87c0a)
@@ -98,11 +101,18 @@ Please make me aware of any bugs you come across!
 
 Known Bugs:
 
+- [ ] - I haven't actually coded the Theme section yet lol
 - [ ] - The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
 - [x] - ~~Not entirely a bug but it is unable to scrape any base64 links from pages~~
 - [x] - ~~xf_user does not display properly in the credentials screen, this however, does not impact anything else.~~
 - [x] - ~~On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.~~
-# Changelog
+# Changelog (DD-MM-YY)
+[**13/08/24**] - Released!
+
+
+[**10/08/24**] - Added Fastmode and resolver
+
+
 [**08/08/24**] - Added Game Info (player count, rating, release date)
 
 Added base64 link support
