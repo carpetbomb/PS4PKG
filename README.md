@@ -101,6 +101,7 @@ Please make me aware of any bugs you come across!
 
 Known Bugs:
 
+- [ ] - Games with multiple links only seem to let you download the last one found. I recommend just opening the page for now.
 - [ ] - I haven't actually coded the Theme section yet lol
 - [ ] - The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
 - [x] - ~~Not entirely a bug but it is unable to scrape any base64 links from pages~~
