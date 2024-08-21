@@ -101,13 +101,15 @@ Please make me aware of any bugs you come across!
 
 Known Bugs:
 
-- [ ] - Games with multiple links only seem to let you download the last one found. I recommend just opening the page for now.
+- [x] - ~~Games with multiple links only seem to let you download the last one found. I recommend just opening the page for now.~~
 - [ ] - I haven't actually coded the Theme section yet lol
 - [ ] - The 'X' Close buttons do not work `[this is a problem with the gui so I cannot fix]`
 - [x] - ~~Not entirely a bug but it is unable to scrape any base64 links from pages~~
 - [x] - ~~xf_user does not display properly in the credentials screen, this however, does not impact anything else.~~
 - [x] - ~~On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.~~
 # Changelog (DD-MM-YY)
+[**21/08/24**] - Fixed multilink posts not downloading / copying properly
+
 [**13/08/24**] - Released!
 
 
