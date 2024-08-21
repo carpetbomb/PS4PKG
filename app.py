@@ -363,7 +363,6 @@ def GetContent(siteLink, gameObj):
 				if i.find('mediafire') != -1: size, title = (getmediafire(i))
 				if size == "": size = "Rate Limited!"; RawFrame.append([sg.Text(title+" ["+size+"]"), sg.Button("Download", key=lambda lnk=i:download(lnk))])
 			else:
-				print(i)
 				RawFrame.append([sg.Text(i), sg.Button("Download", key=lambda lnk=i:download(lnk)), sg.Button("Copy", key=lambda lnk=i:setclipboard(lnk))])
 
 		for i in B64:
