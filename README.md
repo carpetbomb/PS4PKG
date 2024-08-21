@@ -108,29 +108,43 @@ Known Bugs:
 - [x] - ~~xf_user does not display properly in the credentials screen, this however, does not impact anything else.~~
 - [x] - ~~On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.~~
 # Changelog (DD-MM-YY)
-[**21/08/24**] - Fixed multilink posts not downloading / copying properly
+[**21/08/24**]
+
+- Fixed multilink posts not downloading / copying properly
 
 - fixed base64 check failing crashing the program
 
-[**13/08/24**] - Released!
+[**13/08/24**]
+
+- Released!
 
 
-[**10/08/24**] - Added Fastmode and resolver
+[**10/08/24**]
+
+- Added Fastmode and resolver
 
 
-[**08/08/24**] - Added Game Info (player count, rating, release date)
+[**08/08/24**]
+
+- Added Game Info (player count, rating, release date)
 
 - Added base64 link support
 
 - Added API option `none` to just open the download page
 
-[**07/08/24**] - Added game image and description + Fixed game images, descriptions not found crashing program 
+[**07/08/24**] 
+
+- Added game image and description + Fixed game images, descriptions not found crashing program 
 
 
-[**06/08/24**] - Added whether or not game was tested in the link view window
+[**06/08/24**] 
+
+- Added whether or not game was tested in the link view window
 
 - Added Base64 Decoder
 
-[**05/08/24**] - xf_user now displays properly
+[**05/08/24**]
+
+- xf_user now displays properly
 
 - Main page now says 'Get Content' instead of 'Download'
