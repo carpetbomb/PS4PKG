@@ -305,11 +305,14 @@ def GetContent(siteLink, gameObj):
 		content = allr.text
 	##################################################
 	allb64 = soup.find_all('div', class_='bbCodeBlock-content')
-	for a in allb64:
-		if isBase64(a.text):
-			decoded = base64.b64decode(a.text)
-			reencoded = decoded.decode('ASCII')
-			B64.append(reencoded)
+	try: 
+		for a in allb64:
+			if isBase64(a.text):
+				decoded = base64.b64decode(a.text)
+				reencoded = decoded.decode('ASCII')
+				B64.append(reencoded)
+	except:
+		print('base64 check failed!')
 	##################################################
 	if s1 == False:
 		for z in MasterCidList:
