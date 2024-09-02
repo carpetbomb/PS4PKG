@@ -108,6 +108,10 @@ Known Bugs:
 - [x] - ~~xf_user does not display properly in the credentials screen, this however, does not impact anything else.~~
 - [x] - ~~On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.~~
 # Changelog (DD-MM-YY)
+[**02/09/24**]
+
+- Fixed program opening multiple of the same page of content
+
 [**21/08/24**]
 
 - Fixed multilink posts not downloading / copying properly
