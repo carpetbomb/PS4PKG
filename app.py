@@ -185,7 +185,7 @@ def getwp(url, cusa):
 	page = requests.get(url, cookies=get_cookies()) # NEEDS ACCOUNT XF COOKIES PASSED
 	soup = BeautifulSoup(page.content, "html.parser")
 	for a in soup.find_all('a', href=True): 
-		if a.text and a['href'].find(cusa+".") != -1 and a['href'].find('post') == -1: 
+		if a.text and a['href'].find(cusa+".") != -1 and a['href'].find('post') == -1 and a['href'].find('unread') == -1: 
 			links_with_text.append(a['href'])
 	return links_with_text
 
