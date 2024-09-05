@@ -96,6 +96,11 @@ After you're verified you will need to enter your psxhax cookie values. These ca
 These are stored locally in the cache folder and are only passed to psxhax and nowhere else. `(you can confirm this by reading through the code)`
 
 while I plan to add some encryption on these cookies it is not a priority at the moment as nothing in the file indicates what site they are for
+
+# UPDATING
+
+- Whenever a new update is released here aditional info will be included in the update log at the bottom of the README
+
 # Bugs
 Please make me aware of any bugs you come across!
 
