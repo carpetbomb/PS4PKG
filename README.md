@@ -70,7 +70,7 @@ This makes the search a bit faster by just showing links with no game icon or de
 >[!WARNING]
 >YOU **MUST** HAVE A **VERIFIED** ACCOUNT ON PSXHAX TO USE THIS PROGRAM
 
-- You'll need to download the release and unzip it.
+- You'll need to download the release and unzip it also download `install.bat` and `requirements.txt`.
 
 - First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
 
