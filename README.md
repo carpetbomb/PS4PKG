@@ -113,6 +113,14 @@ Known Bugs:
 - [x] - ~~xf_user does not display properly in the credentials screen, this however, does not impact anything else.~~
 - [x] - ~~On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.~~
 # Changelog (DD-MM-YY)
+[**25/09/24**]
+
+- First proper release
+- Added another content id list
+- Added 'search' option to search for game content
+- stored settings etc in single json file instead of multiple text files
+- probably others but can't remember
+
 [**02/09/24**]
 
 - Fixed program opening multiple of the same page of content
