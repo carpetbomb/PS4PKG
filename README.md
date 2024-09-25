@@ -70,7 +70,7 @@ This makes the search a bit faster by just showing links with no game icon or de
 >[!WARNING]
 >YOU **MUST** HAVE A **VERIFIED** ACCOUNT ON PSXHAX TO USE THIS PROGRAM
 
-- You'll need to download `app.py` then the `bin` folder. Also `install.bat` and `requirements.txt` or download the release.
+- You'll need to download the release and unzip it.
 
 - First things first you're gonna need Python, you can get it here: https://www.python.org/downloads/
 
