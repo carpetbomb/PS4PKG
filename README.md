@@ -112,6 +112,11 @@ Known Bugs:
 - [x] - ~~On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.~~
 # Changelog (DD-MM-YY)
 
+[**01/10/24**]
+
+-Added toggles for 1File and MediaFire resolving
+-settings file layout has changed, please delete the old settings.json file from the bin folder.
+
 [**30/09/24**]
 
 - Fixed 1File resolving
