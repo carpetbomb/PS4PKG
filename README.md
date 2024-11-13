@@ -69,7 +69,7 @@ These are stored locally in the cache folder and are only passed to psxhax and n
 
 # UPDATING
 
-- Whenever a new update is released here aditional info will be included in the update log at the bottom of the README
+- Whenever a new update is released here aditional info will be included in the release
 
 # Bugs
 Please make me aware of any bugs you come across!
