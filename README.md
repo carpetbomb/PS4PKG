@@ -24,7 +24,6 @@ This makes the search a bit faster by just showing links with no game icon or de
 
 ### [API]
 
-
 - You have two options of www.alldebrid.com and www.real-debrid.com to download via direct links (1fichier, mega, mediafire)
 
 - The third option is `none` which will open a webpage of the download link.
@@ -41,14 +40,6 @@ This makes the search a bit faster by just showing links with no game icon or de
 - Recover then lets you select one of these backups and revert the games list back to how it was when the backup was taken.
 
 - The backups are stored in the programs /bin/cache folder.
-
-### [Viewing Game]
-
-![Screenshot_7](https://github.com/user-attachments/assets/e5501515-da1b-47c9-8159-df063d29f299)
-
-
-> [!NOTE]
-> This layout is likely not final.
 
 # Installation
 >[!WARNING]
