@@ -84,3 +84,7 @@ Known Bugs:
 - [x] - ~~Not entirely a bug but it is unable to scrape any base64 links from pages~~
 - [x] - ~~xf_user does not display properly in the credentials screen, this however, does not impact anything else.~~
 - [x] - ~~On the main page it says 'Download' instead of 'Get Content' Easy fix that I ahven't gotten round to yet.~~
+
+
+## Stars over time
+[![Stars over time](https://starchart.cc/carpetbomb/PS4PKG.svg?variant=adaptive)](https://starchart.cc/carpetbomb/PS4PKG)
